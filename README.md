@@ -77,7 +77,7 @@ The layout was manually designed in Synopsys Custom Designer following 90nm CMOS
 
 ### Layout
 
-![layout](images/Layout_FullAdder.png)
+![layout](images/Layout_FullAdder.jpg)
 
 ### Layout Features
 
@@ -95,7 +95,7 @@ The layout was manually designed in Synopsys Custom Designer following 90nm CMOS
 
 The layout successfully passed all DRC checks.
 
-![drc](images/DRC_FullAdder.png)
+![drc](images/DRC_FullAdder.jpg)
 
 ---
 
@@ -103,7 +103,7 @@ The layout successfully passed all DRC checks.
 
 The extracted layout matched the original schematic successfully.
 
-![lvs](images/LVS_FullAdder.png)
+![lvs](images/LVS_FullAdder.jpg)
 
 ---
 
