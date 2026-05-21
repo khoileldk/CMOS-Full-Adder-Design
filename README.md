@@ -53,7 +53,7 @@ The transistor-level schematic was implemented using CMOS NAND2 cells interconne
 
 ### Schematic
 
-![schematic](images/schematic.png)
+![schematic](images/Schematic_FullAdder.jpg)
 
 ---
 
@@ -63,7 +63,7 @@ Functional verification and timing analysis were performed before layout generat
 
 ### Waveform
 
-![prelayout](images/prelayout_waveform.png)
+![prelayout](images/Prelayout_Waveform.jpg)
 
 ### Verification
 
@@ -77,7 +77,7 @@ The layout was manually designed in Synopsys Custom Designer following 90nm CMOS
 
 ### Layout
 
-![layout](images/layout.png)
+![layout](images/Layout_FullAdder.png)
 
 ### Layout Features
 
@@ -95,7 +95,7 @@ The layout was manually designed in Synopsys Custom Designer following 90nm CMOS
 
 The layout successfully passed all DRC checks.
 
-![drc](images/drc.png)
+![drc](images/DRC_FullAdder.png)
 
 ---
 
@@ -103,7 +103,7 @@ The layout successfully passed all DRC checks.
 
 The extracted layout matched the original schematic successfully.
 
-![lvs](images/lvs.png)
+![lvs](images/LVS_FullAdder.png)
 
 ---
 
@@ -113,7 +113,7 @@ Parasitic extraction was performed to evaluate layout-induced effects on timing 
 
 ### Post-Layout Simulation
 
-![postlayout](images/postlayout_waveform.png)
+![postlayout](images/Postlayout_waveform.jpg)
 
 ### Observation
 
