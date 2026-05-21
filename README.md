@@ -111,6 +111,8 @@ The extracted layout matched the original schematic successfully.
 
 Parasitic extraction was performed to evaluate layout-induced effects on timing and signal integrity.
 
+![lpe](images/LPE_FullAdder.jpg)
+
 ### Post-Layout Simulation
 
 ![postlayout](images/Postlayout_waveform.jpg)
