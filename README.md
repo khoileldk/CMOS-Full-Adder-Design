@@ -1,8 +1,6 @@
-# CMOS Full Adder Design using NAND2 Gates in Synopsys Custom Designer (90nm Technology)
+# CMOS Full Adder Design using NAND2 Gates 
 
 ## 📌 Overview
-
-This project presents the complete custom CMOS Full Adder design implemented entirely using **NAND2 gates** in **Synopsys Custom Designer** with **90nm CMOS technology**.
 
 The project covers the full IC design flow:
 
