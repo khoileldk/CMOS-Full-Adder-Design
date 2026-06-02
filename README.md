@@ -22,16 +22,6 @@ The project covers the full IC design flow:
 
 ---
 
-## 🛠 Design Environment
-
-* **EDA Tool:** Synopsys Custom Designer
-* **Technology Node:** 90nm CMOS
-* **Logic Style:** Static CMOS NAND2-based implementation
-* **Simulation:** SPICE Simulation
-* **Verification:** DRC / LVS / LPE
-
----
-
 ## 🧠 Logic Design
 
 The Full Adder was constructed entirely from NAND2 gates.
